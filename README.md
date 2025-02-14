@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, Payment implementations, Secure session management**
 
-- 👨‍💻 All of my projects are available at [tomasperez.vercel.app](tomasperez.vercel.app)
+- 👨‍💻 All of my projects are available at [tomasperez.vercel.app](https://tomasperez.vercel.app)
 
 - 💬 Ask me about **Web development with ⚛️ React and Express**
 
