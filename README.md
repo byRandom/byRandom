@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byrandom&theme=dracula" alt="byrandom" /></a> </p>
 
-- I’m currently working on [An app to sell tickets for events](https://github.com/byRandom/ticket-sell-app)
+- I’m currently working on [a Minecraft seed explorer](https://github.com/byRandom/chunkscope)
 
 - 🌱 I’m currently learning **NextJS, Payment implementations, Secure session management**
 
