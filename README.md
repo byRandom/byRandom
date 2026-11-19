@@ -7,11 +7,11 @@
 
 - I’m currently working on [a Minecraft seed explorer](https://github.com/byRandom/chunkscope)
 
-- 🌱 I’m currently learning **NextJS, Payment implementations, Secure session management**
+- 🌱 I’m currently learning **AI Frameworks and work with agents**
 
 - 👨‍💻 All of my projects are available at [tomasperez.vercel.app](https://tomasperez.vercel.app)
 
-- 💬 Ask me about **Web development with ⚛️ React and Express**
+- 💬 Ask me about **Software development**
 
 - 📫 How to reach me **tomasperezv11@gmail.com**
 
