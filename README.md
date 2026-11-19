@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byrandom&label=Profile%20views&color=0e75b6&style=flat" alt="byrandom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byrandom&theme=dracula" alt="byrandom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=byRandom&theme=dracula" alt="byrandom" /></a> </p>
 
 - I’m currently working on [a Minecraft seed explorer](https://github.com/byRandom/chunkscope)
 
